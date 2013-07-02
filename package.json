@@ -1,0 +1,29 @@
+{
+  "name": "dotfy",
+  "version": "1.0.0",
+  "description": "NodeJs module to generate static text-based sparkline graphs",
+  "main": "bin/dotfy.js",
+  "homepage": "http://ravenlp.github.io/dotfy/",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "bin": {
+      "dotfy" : "./bin/dotfy.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/ravenlp/dotfy.git"
+  },
+  "keywords": [
+      "sparkline",
+      "graph"
+  ],
+  "directories": {
+      "lib": "./lib"
+  },
+  "author": "Jorge Condomi",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "*"
+  }
+}
