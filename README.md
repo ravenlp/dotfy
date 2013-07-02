@@ -25,7 +25,7 @@ As this sparklines are text-based it can be copied into webpages, just make sure
 **Dotfy** is licensed under the **MIT**
 
 ```
-Copyright (c) 2013 Jorge Condomií
+Copyright (c) 2013 Jorge Condomí
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
